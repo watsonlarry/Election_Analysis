@@ -21,4 +21,4 @@ The results of the election were proccessed and printed to the attatced .txt fil
 
 ### Summary
 
-
+The python code developed can be reused in future audits, with minimal alterations to the existing code, if the election data is collected in similarly styled excel files.
